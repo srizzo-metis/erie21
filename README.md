@@ -2,6 +2,7 @@
 ERIE21 Tech Day
 
 Exercises to have fun with Raspberry Pi and SenseHat
+https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat/3
 
 
 ## Installation
